@@ -1,0 +1,32 @@
+IxD Notes
+{ Interaction Design NOTES }
+
+
+
+
+
+
+
+
+
+*OSC* Open Sound Control
+- UDP (super low security, very hackable)
+- TCP (more secure, for sending data over network, like networked spaces, but then again who cares about security )
+* both work on ports of IP
+
+all routes begin with "/"
+
+
+
+
+
+
+
+
+
+*MAX MSP*
+• ability to make custom UI with JSUI object
+    can use inlet and JS Math. functions
+    can script in P5.js and talk to Max
+
+• experiment w TouchOSC sending to MaxMsp
